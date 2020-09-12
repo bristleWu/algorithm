@@ -11,6 +11,9 @@ package com.bristle.sort;
  * @date 2020-09-12 23:16
  */
 public class QuickSort {
+    public static void main(String[] args) {
+        System.out.println("hello world");
+    }
 
 
 }
