@@ -3,7 +3,7 @@ package com.bristle.sort;
 import java.util.Arrays;
 
 /**
- * @author GouWei
+ * @author yixuanWu
  * @version 1.0
  * @description 快速排序
  * {3,4,2,1,7}

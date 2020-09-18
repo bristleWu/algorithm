@@ -3,7 +3,7 @@ package com.bristle.sort;
 import java.util.Arrays;
 
 /**
- * @author GouWei
+ * @author yixuanWu
  * @version 1.0
  * @description 归并排序
  * @date 2020-09-18 23:16
